@@ -6,7 +6,7 @@ https://forum.pfsense.org/ | https://doc.pfsense.org/ | https://github.com/pfsen
 
 ---
 
-[pfSense Fundamentals and Advanced Application](https://www.pfsense.org/university/) Course
+## [pfSense Fundamentals and Advanced Application](https://www.pfsense.org/university/) Course
 ```
   - Two full-days training event
   - Prerequisites: Attendees should have a basic understanding of networking and firewalls.
