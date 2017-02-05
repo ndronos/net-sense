@@ -100,7 +100,18 @@ Master the art of managing, securing, and monitoring your network using the powe
 ```
     Mastering pfSense
     _______________________________________________
-    
+
+1   pfSense Essentials
+2   Advanced pfSense Configuration
+3   Working with VLANs
+4   pfSense as a Firewall
+5   Traffic Shaping
+6   Virtual Private Networks
+7   Redundancy and High Availability
+8   Routing and Bridging
+9   Extending pfSense with Packages
+10  Troubleshooting pfSense 
+
     _______________________________________________
     
     David Zientara
