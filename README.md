@@ -35,3 +35,25 @@ VPN               Overview, selecting the appropriate VPN,
                   remote access with IPsec, OpenVPN and PPTP,
                   Site to Site with IPsec and OpenVPN.
 ```
+
+```
+Day Two
+
+Multi-WAN         Overview, best practices,
+                  failover and load balancing,
+                  policy routing,
+                  advanced options.
+                  
+VLANs             Switch configuration,
+                  firewall configuration.
+                  
+High Availability       Overview, network design considerations,
+                        basic CARP configuration,
+                        multi-WAN,
+                        multi-LAN
+                  
+Miscellaneous Topics    Bridging,
+                        captive portal,
+                        system monitoring,
+                        package system overview.
+```
