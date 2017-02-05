@@ -63,3 +63,34 @@ Miscellaneous Topics    Bridging,
                         system monitoring,
                         package system overview.
 ```
+
+## [pfSense 2 Cookbook]
+(Williamson, 2011)
+A practical, example-driven guide to configure even the most advanced features of pfSense 2
+    
+```
+
+
+    pfSense 2 Cookbook
+    _______________________________________________
+    
+    Preface                                       1
+    
+1   Initial Configuration                         1
+2   Essential Services                           23
+3   General Configuration                        41
+4   Virtual Private Networking                   67
+5   Advanced Configuration                       93
+6   Redundancy, Load Balancing, and Failover    125
+7   Services and Maintenace                     153
+
+A   Monitoring and Loggin                       187
+B   Determining our Hardware Requirements       211
+
+    Index                                       225
+    _______________________________________________
+    
+    Matt Williamson
+    Packt
+    2011
+```
