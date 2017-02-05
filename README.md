@@ -93,6 +93,116 @@ B   Determining our Hardware Requirements       211
     2011
 ```
 
+```
+
+1   Initial Configuration
+
+    Introduction
+    Applying basic settings in General Setup
+    Identifying and assigning interfaces
+    Configuring the WAN interface
+    Configuring the LAN interface
+    Configuring optional interfaces
+    Enabling the Secure Shell (SSH)
+    Generating authorized RSA keys
+    Configuring SSH RSA key authentication
+    Accessing the Secure Shell (SSH)
+
+2   Essential Services
+
+    Introduction
+    Configuring the DHCP server
+    Creating static DHCP mappings
+    Configuring the DHCP relay
+    Specifying alternate DNS servers
+    Configuring the DNS Forwarder
+    Configuring a standalone DHCP/DNS server
+    Configuring dynamic DNS
+
+3   General Configuration
+
+    Introduction
+    Creating an alias
+    Creating a NAT port forward rule
+    Creating a firewall rule
+    Creating a schedule
+    Remote desktop access, a complete example
+
+4   Virtual Private Networking
+
+    Introduction
+    Creating an IPsec VPN tunnel
+    Configuring the L2TP VPN service
+
+5   Advanced Configuration
+
+    Introduction
+    Creating a virtual IP
+    Configuring a 1:1 NAT rule
+    Creating an outbound NAT rule
+    Creating a gateway
+    Creating a static route
+    Configuring traffic-shaping (QoS, Quality of Service)
+    Bridging interfaces
+    Creating a virtual LAN
+    Creating a captive portal
+
+6   Redundancy, Load Balancing, and Failover
+
+    Introduction
+    Configuring multiple WAN interfaces
+    Configuring multi-WAN load balancing
+    Configuring multi-WAN failover
+    Configuring a web server load balancer
+    Configuring a web server failover
+    Configuring CARP firewall failover
+
+7   Services and Maintenance
+
+    Introduction
+    Enabling OLSR
+    Enabling PPPoE
+    Enabling RIP
+    Enabling SNMP
+    Enabling UPnP and NAT-PMP
+    Enabling OpenNTPD
+    Enabling Wake On LAN (WOL)
+    Enabling external logging (syslog server)
+    Using ping
+    Using traceroute
+    Backing up the configuration file
+    Restoring the configuration file
+    Configuring automatic configuration file backup
+    Updating pfSense firmware
+
+A   Monitoring and Logging
+
+    Introduction
+    Customizing the Status Dashboard
+    Monitoring current traffic
+    Configuring SMTP e-mail notifications
+    Viewing system logs
+    Configuring an external syslog server
+    Viewing RRD graphs
+    Viewing DHCP leases
+    Managing services
+    Monitoring the packet filter with pfInfo
+    Monitoring traffic with pfTop
+    Monitoring system activity
+
+B   Determining our Hardware Requirements
+
+    Introduction
+    Determining our deployment scenario
+    Determining our throughput requirements
+    Determining our interface requirements
+    Choosing a standard or embedded Image
+    Choosing a Form Factor
+
+C   Index
+```
+
+
 ## [Mastering pfSense](https://www.packtpub.com/networking-and-servers/mastering-pfsense) (Zientara, 2016) 406p
 
 Master the art of managing, securing, and monitoring your network using the powerful pfSense 2.3
