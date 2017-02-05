@@ -2,7 +2,7 @@
 
 # [pfSense](https://www.pfsense.org)
 
-https://doc.pfsense.org/ | https://github.com/pfsense
+https://doc.pfsense.org/ | https://github.com/pfsense | https://www.reddit.com/r/PFSENSE/
 
 ---
 
