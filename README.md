@@ -64,10 +64,10 @@ Miscellaneous Topics    Bridging,
                         package system overview.
 ```
 
-## [pfSense 2 Cookbook]
-(Williamson, 2011)
+## [pfSense 2 Cookbook](https://www.packtpub.com/networking-and-servers/pfsense-2-cookbook) (Williamson, 2011) 252p
+
 A practical, example-driven guide to configure even the most advanced features of pfSense 2
-    
+
 ```
 
 
