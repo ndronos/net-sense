@@ -69,8 +69,6 @@ Miscellaneous Topics    Bridging,
 A practical, example-driven guide to configure even the most advanced features of pfSense 2
 
 ```
-
-
     pfSense 2 Cookbook
     _______________________________________________
     
@@ -93,4 +91,19 @@ B   Determining our Hardware Requirements       211
     Matt Williamson
     Packt
     2011
+```
+
+## [Mastering pfSense](https://www.packtpub.com/networking-and-servers/mastering-pfsense) (Zientara, 2016)
+
+Master the art of managing, securing, and monitoring your network using the powerful pfSense 2.3
+
+```
+    Mastering pfSense
+    _______________________________________________
+    
+    _______________________________________________
+    
+    David Zientara
+    Packt
+    2016
 ```
