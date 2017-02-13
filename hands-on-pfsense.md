@@ -7,7 +7,7 @@
 
 
 ## Blacklist :: SquidGuard
-
+```
 System: Packages (Manager) : Available /  Installed
 
 - Squid         | High performance web proxy cache
@@ -59,4 +59,4 @@ Services: Proxy Server
             Allow users on interface      [enable]
           [SAVE]
 
-
+```
